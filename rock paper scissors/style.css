@@ -1,0 +1,20 @@
+body{
+    text-align: centre;
+    background-image: linear-gradient(to left,rgb(207, 104, 104),rgb(211, 172, 100));
+    border: solid 1px transparent;
+    padding-top: 200px;
+
+}
+.btn{
+    width:180px;
+    height: 180px;
+    display: inline;
+    font-size: 90px;
+
+}
+h1{
+    font-size: 70px;
+}
+.scores{
+    font-size: 40px;
+}
